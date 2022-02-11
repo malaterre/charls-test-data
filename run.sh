@@ -31,7 +31,7 @@ for pgm in pgm/*; do
   fn=$(basename $pgm .pgm)
   charlstest -encodepnm $pgm jls/$fn.jls
   jpeg -ls 0 $pgm jpeg/$fn.jls
-  cjpls $pgm jlst/$fn.jls
+  cjpls --interleave_mode none $pgm jlst/$fn.jls
   # now decompress
   charlstest -decodetopnm jls/$fn.jls jls/$fn.pgm
   jpeg jpeg/$fn.jls jpeg/$fn.pgm
