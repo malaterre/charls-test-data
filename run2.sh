@@ -30,7 +30,7 @@ for pnm in pnm/*; do
   fn=$(basename $pnm .pnm)
   # encodepnm default to 'line' instead of 'none' for RGB:
   charlstest -encodepnm $pnm jls/$fn.jls
-  jpeg -ls 1 $pnm jpeg/$fn.jls
+  jpeg -c -ls 1 $pnm jpeg/$fn.jls
   cjpls --interleave_mode line $pnm jlst/$fn.jls
   # now decompress
   charlstest -decodetopnm jls/$fn.jls jls/$fn.pnm
