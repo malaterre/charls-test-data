@@ -1,0 +1,23 @@
+{
+  "header" : {
+    "frame_info" : {
+      "width" : 256,
+      "height" : 256,
+      "bits_per_sample" : 12,
+      "component_count" : 1
+    },
+    "near_lossless" : 3,
+    "interleave_mode" : "none",
+    "preset_coding_parameters" : {
+      "maximum_sample_value" : 0,
+      "threshold1" : 0,
+      "threshold2" : 0,
+      "threshold3" : 0,
+      "reset_value" : 0
+    },
+    "color_transformation" : "none"
+  },
+  "hash" : {
+    "crc32" : "de32cfe2"
+  }
+}
