@@ -1,0 +1,25 @@
+JPEG-LS Reference Encoder - V.1.00 *** FOR TESTING AND EVALUATION ONLY *** 
+
+The following notice applies to each program in the software package:	
+------------------------------------------------------------------------ 
+This software module was originally developed by Hewlett-Packard	
+Company in the course of development of the ITU-T Rec. T.87|ISO/IEC 
+14495-1 standard. This software module is an implementation of 		
+a part of ITU-T Rec. T.87|ISO/IEC 14495-1. ITU and ISO/IEC give users 	
+of ITU-T Rec. T.87|ISO/IEC 14495-1 free license to this 		
+software module or modifications thereof for use in testing hardware 	
+or software products which claim conformance to ITU-T Rec. 		
+T.87|ISO/IEC 14495-1. Those intending to use this software module are 	
+advised that its use may infringe existing patents. THE ORIGINAL 	
+DEVELOPER OF THIS SOFTWARE MODULE, ITU-T, AND ISO/IEC, HAVE NO 		
+LIABILITY FOR USE OF THIS SOFTWARE MODULE OR MODIFICATIONS THEREOF. 
+No license to this software module is granted for any use other than 
+in testing product conformance to ITU-T Rec. T.87|ISO/IEC 14495-1.
+Hewlett-Packard Company retains full right to use the software module 
+for its own purpose, assign or donate the software module to a third 
+party and to inhibit third parties from using the code in a manner 
+inconsistent with the terms of this license. This copyright notice 
+must be included in all copies or derivative works of the software 
+module. Copyright (c) Hewlett-Packard Company 1995-1999.		
+------------------------------------------------------------------------
+
